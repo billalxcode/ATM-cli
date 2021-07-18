@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "atmsql",
+            "database": "${workspaceFolder:ATM-cli}/database/database.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
